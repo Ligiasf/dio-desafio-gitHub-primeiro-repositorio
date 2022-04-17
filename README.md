@@ -1,2 +1,5 @@
-# dio-desafio-gitHub-primeiro-repositorio 🔄
-Desafio de projeto gitHub
+# Curso gratuito git e gitHub :cat:
+- Desafio de projeto gitHub
+
+- Clone de repositório
+- Treino de repositório
